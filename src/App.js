@@ -4,6 +4,7 @@ import About from './Pages/About/About';
 import Blog from './Pages/Blog/Blog';
 import Home from './Pages/Home/Home';
 
+
 const App = () => {
   return (
     <div className='container'>
